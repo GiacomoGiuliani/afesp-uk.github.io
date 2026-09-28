@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doc
+title: doc
 permalink: /doc/
 nav: true
 nav_order: 8
