@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conferences/
-title: conferences
+title: events
 description: Conference contributions, presentations, and other forms of outreach.
 nav: true
 nav_order: 4
