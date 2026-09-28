@@ -1,12 +1,8 @@
 <p style="text-align: justify;">
-Hi my name is Julia Kukulies. 
-<P>
 
+I am an AFESP Research Fellow at the University of Reading, where I lead the project **Resolving Rain**. I investigate the **benefits of global km-scale models for forecasting impactful precipitation events**, and how we can use **satellite observations to quantify these benefits**.  With the fast development of AI in weather forecasting, there is also the question of emerging balances between forecast skill, spatial scales, and lead times in km-scale forecasts, more traditional global models and AI forecasts.The project examines recent developments in global km-scale forecasting, including ECMWF’s [Weather-Induced Extremes Digital Twin](https://destine.ecmwf.int/weather-induced-extremes-digital-twin/), the UK Met Office’s global 5-km forecasts, and simulations with the ICON model. The ultimate goal of the project is to provide clearer evidence on when and why explicitly resolving convection improves precipitation forecasts, and whether km-scale simulations can provide the physical realism needed to support next-generation AI weather forecasting.
 
-<!--
-Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic_yourname.jpg` and put it in the `assets/img/` folder.
+I have a PhD from the University of Gothenburg and before joining the University of Reading in May 2026, I was a postdoctoral fellow in the Advanced Study Program at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in Boulder, Colorado (2023–2026), working in the [Weather Extremes Across Scales](https://www.mmm.ucar.edu/sections/wexs) section. During my time at NCAR, I developed a framework to evaluate the role of precipitation efficiency in severe convection, which I am also planning to apply in my new project.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<P
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
