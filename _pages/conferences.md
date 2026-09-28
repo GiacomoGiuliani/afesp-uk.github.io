@@ -9,9 +9,26 @@ nav_order: 4
 
 ## Upcomming conferences
 
+<details markdown="1">
+<summary><strong>Conferences</strong></summary>
+
 - [**Convection-Permitting Climate Modelling Workshop 2027 (1-5 Feb, 2027):**](https://conference.unsw.edu.au/en/CPCM2027)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Workshops</strong></summary>
+
 - [**NCAS Introduction to Scientific Computing workshop (9-20 Nov, 2026; online and Leeds):**](https://ncas.ac.uk/study-with-us/introduction-to-scientific-computing/)
+
+</details>
+
+<details markdown="1">
+<summary><strong>Training courses</strong></summary>
+
 - [**Transferring data from ARCHER2 (7 Oct, 2026, 15:00-16:00; online):**](https://www.archer2.ac.uk/training/courses/261007-archer2-data-transfer-vt/)
+
+</details>
 
 ## Contributions to conferences
 
