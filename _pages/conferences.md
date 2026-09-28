@@ -9,6 +9,8 @@ nav_order: 4
 
 ## Conferences
 
+### Upcoming conferences
+
 - [**Convection-Permitting Climate Modelling Workshop 2027 (1-5 Feb, 2027):**](https://conference.unsw.edu.au/en/CPCM2027)
 
 ## Workshops
