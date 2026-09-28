@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Link and Doc
+title: Doc
 nav: true
 nav_order: 9
 dropdown: true
