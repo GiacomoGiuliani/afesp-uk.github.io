@@ -2,7 +2,7 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 8
+nav_order: 9
 dropdown: true
 children:
   - title: bookshelf
@@ -10,7 +10,4 @@ children:
   - title: divider
   - title: news
     permalink: /news/
-  - title: divider
-  - title: doc
-    permalink: /doc/
 ---
