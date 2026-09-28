@@ -341,7 +341,7 @@ profiles:
   #         <p style="white-space: nowrap; margin: 0; display: block;">University of --- </p>
   #       </div>
   - align: left
-    image: profile_pics/Piyali_pic.png
+    image: profile_pics/Piyali_pic.jpg
     content: bios/about_Piyali_Goswami.md
     image_circular: false # crops the image to make it circular
     more_info: >
