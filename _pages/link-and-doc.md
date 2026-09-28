@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Doc
-nav: true
-nav_order: 9
-dropdown: true
-children:
-  - title: Jasmin
-    permalink: /link-and-doc/jasmin/
-  - title: Archer2
-    permalink: /link-and-doc/archer2/
+permalink: /doc/
+nav: false
 ---
+
+- [Jasmin](/link-and-doc/jasmin/)
+- [Archer2](/link-and-doc/archer2/)
