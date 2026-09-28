@@ -1,4 +1,4 @@
-<p style="text-align: justify;">
+<div style="text-align: justify;">
 
 <p>
 Hi! I started my PhD in September 2024, driven by an interest in marine heatwaves and their connections with extreme weather. My research focuses on the subseasonal-to-seasonal (S2S) predictability of marine heatwaves and associated compound events.
@@ -14,6 +14,9 @@ My current work focuses on North Sea marine heatwaves, investigating whether for
 
 <p>
 My PhD is supervised by Ted Shepherd (University of Reading), Ségolène Berthou (Met Office), Magdalena Balmaseda (University of Reading; ECMWF) and Regina Rodrigues (Federal University of Santa Catarina, Brazil).
+</p>
+
+</div>
 
 <!--
 Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic_yourname.jpg` and put it in the `assets/img/` folder.
