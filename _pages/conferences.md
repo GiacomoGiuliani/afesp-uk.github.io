@@ -15,6 +15,8 @@ nav_order: 4
 
 ## Workshops
 
+### Upcoming workshops
+
 - [**NCAS Introduction to Scientific Computing workshop (9-20 Nov, 2026; online and Leeds):**](https://ncas.ac.uk/study-with-us/introduction-to-scientific-computing/)
 
 ## Training courses
