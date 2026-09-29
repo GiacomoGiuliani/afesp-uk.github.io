@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Resolving Rain"
-description: Investigating the benefit of km-scale forecast models for impactful precipitation events 
+title: "Resolving Rain: Understanding the Predictive Value of Global Kilometer-Scale Models for Impactful Precipitation"
+description: AFESP Fellowship project 
 img: assets/img/kscale_forecast_storm_alex.png
 importance: 2
 category: fellowships
