@@ -54,6 +54,18 @@ nav_order: 2
 	{% bibliography --file datasets %}
 </details>
 
+<details class="publication-section">
+	<summary><strong>Manuals</strong></summary>
+
+	{% bibliography --file manuals %}
+</details>
+
+<details class="publication-section">
+	<summary><strong>Books</strong></summary>
+
+	{% bibliography --file books %}
+</details>
+
 </div>
 
 <script>
