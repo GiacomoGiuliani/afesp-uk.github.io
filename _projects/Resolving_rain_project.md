@@ -2,7 +2,7 @@
 layout: page
 title: "Resolving Rain"
 description: 
-img: assets/img/aloft_card.jpg
+img: assets/img/kscale_forecast_storm_alex.png
 importance: 2
 category: fellowships
 ---
