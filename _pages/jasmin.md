@@ -29,3 +29,20 @@ permalink: /link-and-doc/jasmin/
     <li>Update a JASMIN account: <a href="https://help.jasmin.ac.uk/docs/getting-started/update-a-jasmin-account/">Update a JASMIN account - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Interactive computing: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/">Interactive computing - JASMIN Help Site</a></summary>
+  <ul>
+    <li>Access from VSCode: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/access-from-vscode/">Access from VSCode - JASMIN Help Site</a></li>
+    <li>Dask Gateway: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/dask-gateway/">Dask Gateway - JASMIN Help Site</a></li>
+    <li>Graphical Linux desktop using NoMachine NX: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/graphical-linux-desktop-access-using-nx/">Graphical Linux desktop using NoMachine NX - JASMIN Help Site</a></li>
+    <li>Interactive computing overview: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/interactive-computing-overview/">Interactive computing overview - JASMIN Help Site</a></li>
+    <li>JASMIN Notebooks Service: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/">JASMIN Notebooks Service - JASMIN Help Site</a></li>
+    <li>Login problems: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/login-problems/">Login problems - JASMIN Help Site</a></li>
+    <li>Login servers: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/login-servers/">Login servers - JASMIN Help Site</a></li>
+    <li>Project-specific servers: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/project-specific-servers/">Project-specific servers - JASMIN Help Site</a></li>
+    <li>Scientific analysis servers: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/sci-servers/">Scientific analysis servers - JASMIN Help Site</a></li>
+    <li>The JASMIN Notebooks Service with GPUs enabled: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service-with-gpus/">The JASMIN Notebooks Service with GPUs enabled - JASMIN Help Site</a></li>
+    <li>Transfer servers: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/transfer-servers/">Transfer servers - JASMIN Help Site</a></li>
+  </ul>
+</details>
