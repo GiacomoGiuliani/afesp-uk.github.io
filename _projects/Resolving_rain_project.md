@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resolving Rain"
-description: 
+description: Investigating the benefit of km-scale forecast models for impactful precipitation events 
 img: assets/img/kscale_forecast_storm_alex.png
 importance: 2
 category: fellowships
@@ -17,7 +17,7 @@ Precipitation is one of the most societally impactful elements of the Earth syst
 
 - What are the benefits of global km-scale models for forecasting impactful precipitation events?
 - To which extent does explicitly resolved convection also add noise that potentially deteriorates precipitation forecasts?
-- What are the emerging balances between forecast skill, spatial scales, and lead times in km-scale forecasts, more traditional global models and AI forecasts?
+- What are the emerging balances between forecast skill, spatial scales, and lead times in km-scale forecasts compared to more traditional global models and AI forecasts?
 
 In this project, we address these questions by systematically investigating the emerging processes underlying impactful precipitation events in km-scale models. The aim is to provide a global-scale perspective of potential improvements of precipitation forecasts by developing frameworks to make better use of recent satellite missions such as [EarthCare](https://earth.esa.int/eogateway/missions/earthcare). Through model intercomparisons, feature tracking, satellite-based diagnostics, and targeted perturbation experiments, the project will identify key sources of uncertainty in precipitation physics and evaluate their impact on forecast skill.
 
