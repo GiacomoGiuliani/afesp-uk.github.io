@@ -1,12 +1,5 @@
 <p style="text-align: justify;">
 
-<p>
+Gilbert Jesse is a PhD researcher in the Department of Meteorology at the University of Reading. His research focuses on data assimilation and machine learning for weather prediction, with particular interest in combining physics-based and machine-learning forecast models within ensemble data assimilation systems. He holds a BSc and MPhil in Atmospheric Physics and Climate Science from Kwame Nkrumah University of Science and Technology, Ghana.
 
-
-<!--
-Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic_yourname.jpg` and put it in the `assets/img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+</p>
