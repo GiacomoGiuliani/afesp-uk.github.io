@@ -109,3 +109,38 @@ permalink: /link-and-doc/jasmin/
     <li>Transfers from ARCHER2: <a href="https://help.jasmin.ac.uk/docs/data-transfer/transfers-from-archer2/">Transfers from ARCHER2 - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Short term project storage: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/">Short term project storage - JASMIN Help Site</a></summary>
+  <ul>
+    <li>Apply for access to a GWS: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/apply-for-access-to-a-gws/">Apply for access to a GWS - JASMIN Help Site</a></li>
+    <li>Elastic Tape command-line interface hints: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/elastic-tape-command-line-interface-hints/">Elastic Tape command-line interface hints - JASMIN Help Site</a></li>
+    <li>GWS Alert System: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/gws-alert-system/">GWS Alert System - JASMIN Help Site</a></li>
+    <li>GWS etiquette: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/gws-etiquette/">GWS etiquette - JASMIN Help Site</a></li>
+    <li>GWS Scanner: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/gws-scanner/">GWS Scanner - JASMIN Help Site</a></li>
+    <li>GWS Scanner UI: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/gws-scanner-ui/">GWS Scanner UI - JASMIN Help Site</a></li>
+    <li>Install XFC client: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/install-xfc-client/">Install XFC client - JASMIN Help Site</a></li>
+    <li>Joint-storage Data Migration App (JDMA): <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/jdma/">Joint-storage Data Migration App (JDMA) - JASMIN Help Site</a></li>
+    <li>Managing a GWS: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/managing-a-gws/">Managing a GWS - JASMIN Help Site</a></li>
+    <li>Near-Line Data Store (NLDS): <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/nlds/">Near-Line Data Store (NLDS) - JASMIN Help Site</a></li>
+    <li>New storage FAQs and issues: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/faqs-storage/">New storage FAQs and issues - JASMIN Help Site</a></li>
+    <li>NLDS Step by step: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/nlds-step-by-step/">NLDS Step by step - JASMIN Help Site</a></li>
+    <li>
+      <details class="jasmin-subsection">
+        <summary>Object Store: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/object-store/">Object Store - JASMIN Help Site</a></summary>
+        <ul>
+          <li>Configuring CORS for object storage: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/object-store/configuring-cors-for-object-storage/">Configuring CORS for object storage - JASMIN Help Site</a></li>
+          <li>JASMIN Object Store Portal: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/object-store/s3-portal/">JASMIN Object Store Portal - JASMIN Help Site</a></li>
+          <li>Legacy Content for the JASMIN Object Store: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/object-store/object-store-legacy/">Legacy Content for the JASMIN Object Store - JASMIN Help Site</a></li>
+          <li>Object Store Tools: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/object-store/s3-tools/">Object Store Tools - JASMIN Help Site</a></li>
+          <li>The JASMIN Object Store: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/object-store/jasmin-object-store/">The JASMIN Object Store - JASMIN Help Site</a></li>
+        </ul>
+      </details>
+    </li>
+    <li>Secondary copy using Elastic Tape: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/secondary-copy-using-elastic-tape/">Secondary copy using Elastic Tape - JASMIN Help Site</a></li>
+    <li>Sharing GWS data on JASMIN: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/share-gws-data-on-jasmin/">Sharing GWS data on JASMIN - JASMIN Help Site</a></li>
+    <li>Sharing GWS data via HTTP: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/share-gws-data-via-http/">Sharing GWS data via HTTP - JASMIN Help Site</a></li>
+    <li>Transfer Cache (XFC): <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/xfc/">Transfer Cache (XFC) - JASMIN Help Site</a></li>
+    <li>What is a Group Workspace?: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/introduction-to-group-workspaces/">What is a Group Workspace? - JASMIN Help Site</a></li>
+  </ul>
+</details>
