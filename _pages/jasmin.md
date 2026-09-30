@@ -144,3 +144,10 @@ permalink: /link-and-doc/jasmin/
     <li>What is a Group Workspace?: <a href="https://help.jasmin.ac.uk/docs/short-term-project-storage/introduction-to-group-workspaces/">What is a Group Workspace? - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Long-term archive storage: <a href="https://help.jasmin.ac.uk/docs/long-term-archive-storage/">Long-term archive storage - JASMIN Help Site</a></summary>
+  <ul>
+    <li>CEDA Archive: <a href="https://help.jasmin.ac.uk/docs/long-term-archive-storage/ceda-archive/">CEDA Archive - JASMIN Help Site</a></li>
+  </ul>
+</details>
