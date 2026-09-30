@@ -46,3 +46,20 @@ permalink: /link-and-doc/jasmin/
     <li>Transfer servers: <a href="https://help.jasmin.ac.uk/docs/interactive-computing/transfer-servers/">Transfer servers - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Batch computing: <a href="https://help.jasmin.ac.uk/docs/batch-computing/">Batch Computing - JASMIN Help Site</a></summary>
+  <ul>
+    <li>LOTUS overview: <a href="https://help.jasmin.ac.uk/docs/batch-computing/lotus-overview/">LOTUS overview - JASMIN Help Site</a></li>
+    <li>Slurm scheduler overview: <a href="https://help.jasmin.ac.uk/docs/batch-computing/slurm-scheduler-overview/">Slurm scheduler overview - JASMIN Help Site</a></li>
+    <li>Slurm queues: <a href="https://help.jasmin.ac.uk/docs/batch-computing/slurm-queues/">Slurm queues - JASMIN Help Site</a></li>
+    <li>How to submit a job: <a href="https://help.jasmin.ac.uk/docs/batch-computing/how-to-submit-a-job/">How to submit a job - JASMIN Help Site</a></li>
+    <li>How to monitor Slurm jobs: <a href="https://help.jasmin.ac.uk/docs/batch-computing/how-to-monitor-slurm-jobs/">How to monitor Slurm jobs - JASMIN Help Site</a></li>
+    <li>How to submit an MPI parallel job: <a href="https://help.jasmin.ac.uk/docs/batch-computing/how-to-submit-an-mpi-parallel-job/">How to submit an MPI parallel job - JASMIN Help Site</a></li>
+    <li>Orchid GPU cluster: <a href="https://help.jasmin.ac.uk/docs/batch-computing/orchid-gpu-cluster/">Orchid GPU cluster - JASMIN Help Site</a></li>
+    <li>Example Job 2: Calculating MD5 Checksums on many files: <a href="https://help.jasmin.ac.uk/docs/batch-computing/example-job-2-calc-md5s/">Example Job 2: Calculating MD5 Checksums on many files - JASMIN Help Site</a></li>
+    <li>LOTUS cluster specification: <a href="https://help.jasmin.ac.uk/docs/batch-computing/lotus-cluster-specification/">LOTUS cluster specification - JASMIN Help Site</a></li>
+    <li>Slurm quick reference: <a href="https://help.jasmin.ac.uk/docs/batch-computing/slurm-quick-reference/">Slurm quick reference - JASMIN Help Site</a></li>
+    <li>Slurm status: <a href="https://help.jasmin.ac.uk/docs/batch-computing/slurm-status/">Slurm status - JASMIN Help Site</a></li>
+  </ul>
+</details>
