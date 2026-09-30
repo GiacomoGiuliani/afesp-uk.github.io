@@ -162,3 +162,21 @@ permalink: /link-and-doc/jasmin/
     <li>Setting up your JASMIN account for access to MASS: <a href="https://help.jasmin.ac.uk/docs/mass/setting-up-your-jasmin-account-for-access-to-mass/">Setting up your JASMIN account for access to MASS - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>For Cloud Tenants: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/">For Cloud Tenants - JASMIN Help Site</a></summary>
+  <ul>
+    <li>Azimuth Identity Provider: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/azimuth-identity-provider/">Azimuth Identity Provider - JASMIN Help Site</a></li>
+    <li>Best Practice: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/best-practice/">Best Practice - JASMIN Help Site</a></li>
+    <li>Hosting services: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/hosting-services/">Hosting services - JASMIN Help Site</a></li>
+    <li>Introduction to the JASMIN Cloud: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/introduction-to-the-jasmin-cloud/">Introduction to the JASMIN Cloud - JASMIN Help Site</a></li>
+    <li>JASMIN Cloud Storage: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/cloud-storage/">JASMIN Cloud Storage - JASMIN Help Site</a></li>
+    <li>Linux admin: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/linux-admin/">Linux admin - JASMIN Help Site</a></li>
+    <li>OpenStack: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/openstack/">OpenStack - JASMIN Help Site</a></li>
+    <li>Platforms In Depth - JupyterHub, DaskHub, BinderHub: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/platform-in-depth-jupyterhub/">Platforms In Depth - JupyterHub, DaskHub, BinderHub - JASMIN Help Site</a></li>
+    <li>Platforms In Depth - Kubernetes: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/platform-in-depth-k8s/">Platforms In Depth - Kubernetes - JASMIN Help Site</a></li>
+    <li>Platforms In Depth - Slurm: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/platform-in-depth-slurm/">Platforms In Depth - Slurm - JASMIN Help Site</a></li>
+    <li>Platforms In Depth - Workstations: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/platform-in-depth-workstation/">Platforms In Depth - Workstations - JASMIN Help Site</a></li>
+    <li>The Azimuth Cloud Portal: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/azimuth-cloud-portal/">The Azimuth Cloud Portal - JASMIN Help Site</a></li>
+  </ul>
+</details>
