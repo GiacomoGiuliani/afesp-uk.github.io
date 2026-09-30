@@ -180,3 +180,11 @@ permalink: /link-and-doc/jasmin/
     <li>The Azimuth Cloud Portal: <a href="https://help.jasmin.ac.uk/docs/for-cloud-tenants/azimuth-cloud-portal/">The Azimuth Cloud Portal - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Workflow management: <a href="https://help.jasmin.ac.uk/docs/workflow-management/">Workflow management - JASMIN Help Site</a></summary>
+  <ul>
+    <li>Using Cron: <a href="https://help.jasmin.ac.uk/docs/workflow-management/using-cron/">Using Cron - JASMIN Help Site</a></li>
+    <li>Workflow Management with rose/cylc: <a href="https://help.jasmin.ac.uk/docs/workflow-management/rose-cylc-on-jasmin/">Workflow Management with rose/cylc - JASMIN Help Site</a></li>
+  </ul>
+</details>
