@@ -12,8 +12,11 @@ children:
     permalink: /link-and-doc/archer2/
   - title: LFRic
     permalink: /link-and-doc/lfric/
+  - title: RACC2
+    permalink: /link-and-doc/racc2/
 ---
 
 - [Jasmin](/link-and-doc/jasmin/)
 - [Archer2](/link-and-doc/archer2/)
 - [LFRic](/link-and-doc/lfric/)
+- [RACC2](/link-and-doc/racc2/)
