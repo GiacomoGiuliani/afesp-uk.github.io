@@ -63,3 +63,31 @@ permalink: /link-and-doc/jasmin/
     <li>Slurm status: <a href="https://help.jasmin.ac.uk/docs/batch-computing/slurm-status/">Slurm status - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Software on JASMIN: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/">Software on JASMIN - JASMIN Help Site</a></summary>
+  <ul>
+    <li>Additional software: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/additional-software/">Additional software - JASMIN Help Site</a></li>
+    <li>Community Software: checksit: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/community-software-checksit/">Community Software: checksit - JASMIN Help Site</a></li>
+    <li>Community Software: ESMValTool: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/community-software-esmvaltool/">Community Software: ESMValTool - JASMIN Help Site</a></li>
+    <li>Compiling and linking: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/compiling-and-linking/">Compiling and linking - JASMIN Help Site</a></li>
+    <li>Conda environments and Python virtual environments: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/conda-environments-and-python-virtual-environments/">Conda environments and Python virtual environments - JASMIN Help Site</a></li>
+    <li>Conda removal: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/conda-removal/">Conda removal - JASMIN Help Site</a></li>
+    <li>Creating and using miniforge environments: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/creating-and-using-miniforge-environments/">Creating and using miniforge environments - JASMIN Help Site</a></li>
+    <li>Geocat replaces NCL: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/geocat-replaces-ncl/">Geocat replaces NCL - JASMIN Help Site</a></li>
+    <li>IDL: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/idl/">IDL - JASMIN Help Site</a></li>
+    <li>JASMIN software FAQs: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/jasmin-software-faqs/">JASMIN software FAQs - JASMIN Help Site</a></li>
+    <li>Jaspy Software Environments (Python 3, R and other tools): <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/jaspy-envs/">Jaspy Software Environments (Python 3, R and other tools) - JASMIN Help Site</a></li>
+    <li>Met Office NAME Model: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/name-dispersion-model/">Met Office NAME Model - JASMIN Help Site</a></li>
+    <li>Migration to Rocky Linux 9 2024: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/rocky9-migration-2024/">Migration to Rocky Linux 9 2024 - JASMIN Help Site</a></li>
+    <li>Postgres databases on request: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/postgres-databases-on-request/">Postgres databases on request - JASMIN Help Site</a></li>
+    <li>Python Virtual Environments: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/python-virtual-environments/">Python Virtual Environments - JASMIN Help Site</a></li>
+    <li>Quickstart for activating/deactivating software environments: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/quickstart-software-envs/">Quickstart for activating/deactivating software environments - JASMIN Help Site</a></li>
+    <li>Running python on JASMIN: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/running-python-on-jasmin/">Running python on JASMIN - JASMIN Help Site</a></li>
+    <li>Running R on JASMIN: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/running-r-on-jasmin/">Running R on JASMIN - JASMIN Help Site</a></li>
+    <li>Sharing software environments: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/share-software-envs/">Sharing software environments - JASMIN Help Site</a></li>
+    <li>Software Overview: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/software-overview/">Software Overview - JASMIN Help Site</a></li>
+    <li>The "jasmin-sci" software environment: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/jasmin-sci-software-environment/">The "jasmin-sci" software environment - JASMIN Help Site</a></li>
+    <li>Using Matplotlib for visualisation on JASMIN: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/matplotlib/">Using Matplotlib for visualisation on JASMIN - JASMIN Help Site</a></li>
+  </ul>
+</details>
