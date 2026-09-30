@@ -91,3 +91,21 @@ permalink: /link-and-doc/jasmin/
     <li>Using Matplotlib for visualisation on JASMIN: <a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/matplotlib/">Using Matplotlib for visualisation on JASMIN - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Data transfer: <a href="https://help.jasmin.ac.uk/docs/data-transfer/">Data transfer - JASMIN Help Site</a></summary>
+  <ul>
+    <li>bbcp (deprecated): <a href="https://help.jasmin.ac.uk/docs/data-transfer/bbcp/">bbcp (deprecated) - JASMIN Help Site</a></li>
+    <li>Data transfer overview: <a href="https://help.jasmin.ac.uk/docs/data-transfer/data-transfer-overview/">Data transfer overview - JASMIN Help Site</a></li>
+    <li>Data Transfer Tools: <a href="https://help.jasmin.ac.uk/docs/data-transfer/data-transfer-tools/">Data Transfer Tools - JASMIN Help Site</a></li>
+    <li>ftp and lftp: <a href="https://help.jasmin.ac.uk/docs/data-transfer/ftp-and-lftp/">ftp and lftp - JASMIN Help Site</a></li>
+    <li>Globus Command-Line Interface: <a href="https://help.jasmin.ac.uk/docs/data-transfer/globus-command-line-interface/">Globus Command-Line Interface - JASMIN Help Site</a></li>
+    <li>Globus Connect Personal: <a href="https://help.jasmin.ac.uk/docs/data-transfer/globus-connect-personal/">Globus Connect Personal - JASMIN Help Site</a></li>
+    <li>Globus transfers with JASMIN: <a href="https://help.jasmin.ac.uk/docs/data-transfer/globus-transfers-with-jasmin/">Globus transfers with JASMIN - JASMIN Help Site</a></li>
+    <li>GridFTP (SSH authentication): <a href="https://help.jasmin.ac.uk/docs/data-transfer/gridftp-ssh-auth/">GridFTP (SSH authentication) - JASMIN Help Site</a></li>
+    <li>rclone: <a href="https://help.jasmin.ac.uk/docs/data-transfer/rclone/">rclone - JASMIN Help Site</a></li>
+    <li>rsync, scp, sftp: <a href="https://help.jasmin.ac.uk/docs/data-transfer/rsync-scp-sftp/">rsync, scp, sftp - JASMIN Help Site</a></li>
+    <li>Scheduling/Automating Transfers: <a href="https://help.jasmin.ac.uk/docs/data-transfer/scheduling-automating-transfers/">Scheduling/Automating Transfers - JASMIN Help Site</a></li>
+    <li>Transfers from ARCHER2: <a href="https://help.jasmin.ac.uk/docs/data-transfer/transfers-from-archer2/">Transfers from ARCHER2 - JASMIN Help Site</a></li>
+  </ul>
+</details>
