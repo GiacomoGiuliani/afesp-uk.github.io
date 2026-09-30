@@ -151,3 +151,14 @@ permalink: /link-and-doc/jasmin/
     <li>CEDA Archive: <a href="https://help.jasmin.ac.uk/docs/long-term-archive-storage/ceda-archive/">CEDA Archive - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>MASS: <a href="https://help.jasmin.ac.uk/docs/mass/">MASS - JASMIN Help Site</a></summary>
+  <ul>
+    <li>External Access to MASS FAQs: <a href="https://help.jasmin.ac.uk/docs/mass/external-access-to-mass-faq/">External Access to MASS FAQs - JASMIN Help Site</a></li>
+    <li>How to apply for MASS access: <a href="https://help.jasmin.ac.uk/docs/mass/how-to-apply-for-mass-access/">How to apply for MASS access - JASMIN Help Site</a></li>
+    <li>MOOSE (the MASS client) User Guide: <a href="https://help.jasmin.ac.uk/docs/mass/moose-the-mass-client-user-guide/">MOOSE (the MASS client) User Guide - JASMIN Help Site</a></li>
+    <li>New MOOSE and MASS: <a href="https://help.jasmin.ac.uk/docs/mass/new-moose-and-mass/">New MOOSE and MASS - JASMIN Help Site</a></li>
+    <li>Setting up your JASMIN account for access to MASS: <a href="https://help.jasmin.ac.uk/docs/mass/setting-up-your-jasmin-account-for-access-to-mass/">Setting up your JASMIN account for access to MASS - JASMIN Help Site</a></li>
+  </ul>
+</details>
