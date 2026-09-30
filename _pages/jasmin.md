@@ -188,3 +188,18 @@ permalink: /link-and-doc/jasmin/
     <li>Workflow Management with rose/cylc: <a href="https://help.jasmin.ac.uk/docs/workflow-management/rose-cylc-on-jasmin/">Workflow Management with rose/cylc - JASMIN Help Site</a></li>
   </ul>
 </details>
+
+<details class="jasmin-section">
+  <summary>Uncategorized: <a href="https://help.jasmin.ac.uk/docs/uncategorized/">Uncategorized - JASMIN Help Site</a></summary>
+  <ul>
+    <li>Acknowledging JASMIN: <a href="https://help.jasmin.ac.uk/docs/uncategorized/acknowledging-jasmin/">Acknowledging JASMIN - JASMIN Help Site</a></li>
+    <li>Approving requests for access roles: <a href="https://help.jasmin.ac.uk/docs/uncategorized/approving-requests-for-access/">Approving requests for access roles - JASMIN Help Site</a></li>
+    <li>JASMIN Conditions of Use: <a href="https://help.jasmin.ac.uk/docs/uncategorized/jasmin-conditions-of-use/">JASMIN Conditions of Use - JASMIN Help Site</a></li>
+    <li>MobaXterm (Windows terminal client): <a href="https://help.jasmin.ac.uk/docs/uncategorized/mobaxterm/">MobaXterm (Windows terminal client) - JASMIN Help Site</a></li>
+    <li>Processing requests for resources: <a href="https://help.jasmin.ac.uk/docs/uncategorized/processing-requests-for-resources/">Processing requests for resources - JASMIN Help Site</a></li>
+    <li>Rate Limiting: <a href="https://help.jasmin.ac.uk/docs/uncategorized/rate-limiting/">Rate Limiting - JASMIN Help Site</a></li>
+    <li>Requesting resources: <a href="https://help.jasmin.ac.uk/docs/uncategorized/requesting-resources/">Requesting resources - JASMIN Help Site</a></li>
+    <li>Test doc: <a href="https://help.jasmin.ac.uk/docs/uncategorized/test-doc/">Test doc - JASMIN Help Site</a></li>
+    <li>Working with many Linux groups: <a href="https://help.jasmin.ac.uk/docs/uncategorized/working-with-many-linux-groups/">Working with many Linux groups - JASMIN Help Site</a></li>
+  </ul>
+</details>
