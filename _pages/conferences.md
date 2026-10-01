@@ -18,6 +18,7 @@ nav_order: 4
 ## Upcoming training courses
 
 - [**Transferring data from ARCHER2 (7 Oct, 2026, 15:00-16:00; online):**](https://www.archer2.ac.uk/training/courses/261007-archer2-data-transfer-vt/)
+- [**NCAS Climate Modelling Summer School (5-17 Sep 2027, Cambridge, UK)**](https://ncas.ac.uk/study-with-us/climate-modelling-summer-school/)
 
 ## Contributions to conferences
 
