@@ -925,7 +925,7 @@ profiles:
   #         <p style="white-space: nowrap; margin: 0; display: block;">University of --- </p>
   #       </div>
   - align: left
-    image: profile_pics/prof_pic_Pier_Luigi_Vidale.jpeg
+    image: profile_pics/prof_pic_Pier_Luigi_Vidale.jpg
     content: bios/about_Pier_Luigi_Vidale.md
     image_circular: false # crops the image to make it circular
     more_info: >
