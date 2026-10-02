@@ -1,12 +1,11 @@
 <p style="text-align: justify;">
-
+I am a part-time PhD student in the AFESP programme at the University of Reading with supervisors Amos Lawless, Nancy Nichols and Yumeng Chen ([DARC](https://research.reading.ac.uk/met-darc/)), Jo Waller and Dan Lea (Met Office) and Tsz Yan Leung (European Centre for Medium-Range Weather Forecasts). My aim is to investigate stronger coupling of atmospheric and oceanic data assimilation systems via the [observation operator](https://research.reading.ac.uk/met-darc/2024/03/21/are-satellite-observations-really-measuring-the-same-thing-as-your-model-predicts-probably-not-heres-what-to-do-about-it/). Certain observations are sensitive to both the atmospheric and oceanic states, so this approach is expected to extract more information from such observations by representing the physical relationships more completely.
 <p>
 
+<p style="text-align: justify;">
+Since 2022, I have worked in atmospheric data assimilation at the Met Office. The Met Office’s next-generation global system will use the LFRic forecast model and the JEDI (Joint Effort for Data assimilation Integration) framework. The tangent linear model and adjoint of this incremental 4D-Var system will be a hybrid of two components. I work on both: the dynamics component within LFRic and the ensemble-derived physics component within JEDI.
+<p>
 
-<!--
-Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic_yourname.jpg` and put it in the `assets/img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+<p style="text-align: justify;">
+I hold an integrated master’s degree in Earth Sciences (Geology) from the University of Oxford where my master’s research was on projections of sea-ice-motion-induced freshwater redistribution and the effects of this on subpolar North Atlantic water column stability. I also completed a field-/lab-based placement in coastal oceanography at the University of Plymouth.
+<p>
