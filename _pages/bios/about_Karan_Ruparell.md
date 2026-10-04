@@ -4,6 +4,8 @@ I'm Karan Ruparell, and I'm a 4th year PhD student in the AFESP programme at the
 
 I work on building AI forecasts to improve river discharge predictions, mostly on a global scale. My work covers how to build models that generalise across many catchments ([Hydra-LSTM](https://doi.org/10.1175/AIES-D-24-0103.1)), [how to produce ensemble forecasts](https://doi.org/10.22541/essoar.176798041.13131338/v2) that capture the uncertainty in river flow, and [how to handle awkward cases like reservoir-influenced rivers](https://doi.org/10.5194/egusphere-2026-2909). I'm especially interested in what research is needed to improve operational forecasting, and how better forecasts can help local forecasters make better decisions.
 
+Before my PhD, I did a masters in Mathematics and Statistics at the University of Oxford
+
 **My supervisors are:**
 
 - Dr Kieran Hunt (University of Reading)
