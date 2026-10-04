@@ -5,6 +5,7 @@ github_users:
   - charlieegan
   - gilbert-jesse
   - tom-j-h
+  - kruparell
 
 repo_description_lines_max: 4
 
@@ -12,3 +13,6 @@ github_repos:
   - afesp-uk/afesp-uk.github.io
   - digital-earths-global-hackathon/digital-earths-global-hackathon.github.io
   - charlieegan/background-states-of-the-atmosphere
+  - kruparell/Ensemble_Forecasting-Rollout-and-Diffusion
+  - kruparell/UK_Forecasting_With_HydraLSTM
+  - kruparell/Hydra_LSTM-River-Flow-Forecasting-in-the-Northern-US
