@@ -16,7 +16,7 @@ I've been lucky enough to work with many institutions as part of my PhD, and hav
 
 - **[ECMWF](https://www.ecmwf.int/)**, where I worked as a contract scientist building machine learning models for global river discharge prediction
 - **[NCAR](https://ncar.ucar.edu/)** in Boulder, Colorado, where I visited Prof. Andy Wood and developed the Hydra-LSTM
-- **Yamazaki Labs** in Tokyo, where I was a JSPS Summer Fellow working with Prof. Dai Yamazaki on forecasting at reservoir-influenced gauges
+- **[Yamazaki Lab](https://hydro.iis.u-tokyo.ac.jp/index_en.html)** in Tokyo, where I was a JSPS Summer Fellow working with Prof. Dai Yamazaki on forecasting at reservoir-influenced gauges
 - **[RIKEN](https://www.riken.jp/en/)** in Kobe, where I worked with Dr Tristan Hascoet and Prof. Takemasa Miyoshi on spatially joint ensemble river forecasting
 - **[Google Flood Hub](https://sites.research.google/floodforecasting)** in Zurich, where I was a student researcher with Dr Grey Nearing
 
