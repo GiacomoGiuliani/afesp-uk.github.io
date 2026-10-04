@@ -22,4 +22,4 @@ I've been lucky enough to work with many institutions as part of my PhD, and hav
 - **[RIKEN](https://www.riken.jp/en/)** in Kobe, where I worked with Dr Tristan Hascoet and Prof. Takemasa Miyoshi on spatially joint ensemble river forecasting
 - **[Google Flood Hub](https://sites.research.google/floodforecasting)** in Zurich, where I was a student researcher with Dr Grey Nearing
 
-Outside of research, I love public speaking and community events, and I'm always happy to chat about river forecasting, machine learning, or anything in between. You can find me on [GitHub](https://github.com/kruparell) and [LinkedIn](https://www.linkedin.com/in/karan-ruparell-810b86146/).
+Outside of research, I love public speaking and community events, and I'm always happy to chat about river forecasting, machine learning, or anything in between. You can find me on [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID), [GitHub](https://github.com/kruparell) and [LinkedIn](https://www.linkedin.com/in/karan-ruparell-810b86146/).
